@@ -8,6 +8,7 @@
 - 기프티콘 등록 : 가지고 있는 기프티콘의 정보를 입력하여 앱에 등록할 수 있습니다.
 - 기프티콘 확인 및 삭제 : 등록한 기프티콘을 확인하거나 삭제할 수 있습니다.
 
+
 ## 업데이트 예정
 - 기프티콘 사용 확인 : 각 벤더사의 API를 이용해 기프티콘의 사용 여부를 알 수 있습니다.
 - 사용기한 알림 : 기프티콘의 사용 기한 전 Push Notification을 통해 유저에게 리마인드 알람을 줍니다.
@@ -59,5 +60,3 @@
 
 <img src="https://github.com/user-attachments/assets/ca118a20-077e-4ae7-9c26-08486b5b28b8" width = 300/>
 <img src="https://github.com/user-attachments/assets/d7fc5c98-1b78-463c-951a-21b5bc1831af" width = 300/>
-
-
